@@ -50,3 +50,7 @@
 GameData/Scenes и создать собственный набор уровней.
 
 Внимание! Не оставляйте пустых строк в файле GameData/Levels.txt.
+
+## Сброс прогресса
+
+Удалите файл `c:\Users\ИМЯ_ПОЛЬЗОВАТЕЛЯ\AppData\Roaming\1vanK\PuddleSimulator\Config.xml`.
