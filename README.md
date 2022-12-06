@@ -54,3 +54,5 @@ GameData/Scenes и создать собственный набор уровне
 ## Сброс прогресса
 
 Удалите файл `c:\Users\ИМЯ_ПОЛЬЗОВАТЕЛЯ\AppData\Roaming\1vanK\PuddleSimulator\Config.xml`.
+
+*Старая версия игры: <https://github.com/1vanK/PuddleSimulator>.*
